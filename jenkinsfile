@@ -8,7 +8,7 @@ node {
    // Get the maven tool.
    // ** NOTE: This 'M3' maven tool must be configured
    // **       in the global configuration.           
-   def mvnHome = '/home/ubuntu/opt'
+   def mvnHome = '/home/ubuntu/apache-maven-3.3.9'
 
    // Mark the code build 'stage'....
    stage 'Build'
