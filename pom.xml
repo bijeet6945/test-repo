@@ -4,7 +4,7 @@
 
   <groupId>com.bimarian.main</groupId>
   <artifactId>sample-project</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1-SNAPSHOT-${build.number}</version>
   <packaging>jar</packaging>
 
   <name>sample-project</name>
